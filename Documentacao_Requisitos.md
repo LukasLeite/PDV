@@ -1,6 +1,3 @@
-from docx import Document
-
-conteudo_md = """
 # Documentação de Requisitos – PDV
 
 ## 1. Requisitos Funcionais (RF)
@@ -28,6 +25,6 @@ conteudo_md = """
 - **RNF07 – Disponibilidade:** O sistema deve estar disponível sempre durante o horário de funcionamento da padaria.  
 - **RNF08 – Compatibilidade com Impressoras:** O sistema deve ser compatível com impressoras térmicas de cupons.  
 - **RNF09 – Suporte a Atualizações:** Deve permitir atualizações futuras sem perda de dados.
-"""
+
 
 
