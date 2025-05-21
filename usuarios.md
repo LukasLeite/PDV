@@ -1,10 +1,10 @@
 
 # Histórias de Usuário – PDV da Panificadora Milênio
 
-## 👩‍💼 Usuária: Adriana  
+## Usuário: Adriana  
 **Cargo:** Caixa
 
-### 📖 História
+### História
 
 > "No começo, tudo era feito no caderno. Eu anotava os pedidos, fazia a conta na calculadora.  
 > Era comum errar o troco, e às vezes a gente esquecia de registrar a venda no fim do dia.  
@@ -18,10 +18,10 @@
 
 ---
 
-## 🧔‍♂️ Nome: Diego Leite  
+## Usuário: Diego Leite  
 **Cargo:** Proprietário da Panificadora Milênio
 
-### 📖 História
+### História
 
 > "Desde que abri a padaria, sempre tive que lidar com muita coisa ao mesmo tempo: fornecedores, funcionários, estoque, contas, clientes...  
 > No começo, tudo era no papel — eu anotava as vendas no caderno, calculava lucro no Excel, e só percebia que um produto estava acabando quando já tinha faltado na prateleira. Foi um caos.
