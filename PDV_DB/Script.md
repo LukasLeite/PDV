@@ -1,5 +1,5 @@
 
-## 📄 Banco de Dados - Estrutura, Chaves e Script
+## 📄 Banco de Dados - Script
 
 ### ✅ **Configuração inicial do SQLite**
 
@@ -105,12 +105,3 @@ CREATE TABLE VENDA_PRODUTO (
 
 ---
 
-## ✅ **Resumo rápido:**
-
-| **Tabela**       | **Primary Key**            | **Foreign Keys**                                  |
-|------------------|--------------------------- |---------------------------------------------------|
-| USER             | id_user                    | -                                                 |
-| PRODUTO          | id_produto                 | -                                                 |
-| CAIXA            | id_caixa                   | -                                                 |
-| VENDA            | id_venda                   | id_user → USER(id_user) <br> id_caixa → CAIXA(id_caixa) |
-| VENDA_PRODUTO    | id_venda + id_produto (PK) | id_venda → VENDA(id_venda) <br> id_produto → PRODUTO(id_produto) |
