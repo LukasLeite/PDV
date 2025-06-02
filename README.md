@@ -27,7 +27,7 @@ Este projeto consiste em um sistema **Ponto de Venda (PDV)** voltado para o gere
 
 - **Linguagem:** C# (.NET)
 - **Interface:** Windows Forms / WPF (Desktop)
-- **Banco de Dados:** MySQL
+- **Banco de Dados:** SQLite
 - **Relatórios:** Report Viewer ou PDF
 
 
