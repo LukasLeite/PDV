@@ -97,7 +97,7 @@ CREATE TABLE VENDA_PRODUTO (
 ```
 
 - **Primary Key (PK):**  
-  - Composta → `(id_venda, id_produto)`  
+  `(id_venda, id_produto)`  
 
 - **Foreign Keys (FK):**  
   - `id_venda` → `VENDA(id_venda)`  
