@@ -51,7 +51,7 @@ CREATE TABLE PRODUTO (
 CREATE TABLE CAIXA (
     id_caixa INTEGER PRIMARY KEY AUTOINCREMENT,
     descricao TEXT NOT NULL,
-    data_abertura TEXT NOT NULL, -- pode usar ISO8601 string para datas
+    data_abertura TEXT NOT NULL, 
     data_fechamento TEXT
 );
 ```
