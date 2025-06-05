@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DCgiqdb+HVU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marcoslino\\Downloads\\PDV-main (2)\\PDV-main\\PDV_CODE\\cadastro pdv\\cadastro pdv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcoslino\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\marcoslino\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}
