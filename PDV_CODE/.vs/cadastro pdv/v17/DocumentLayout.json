@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marcoslino\\Downloads\\PDV-main (2)\\PDV-main\\PDV_CODE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B939F6B-6CAF-4EE6-BF4B-E5EADECCA56B}|cadastro pdv\\cadastro pdv.csproj|c:\\users\\marcoslino\\downloads\\pdv-main (2)\\pdv-main\\pdv_code\\cadastro pdv\\cadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B939F6B-6CAF-4EE6-BF4B-E5EADECCA56B}|cadastro pdv\\cadastro pdv.csproj|solutionrelative:cadastro pdv\\cadastrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B939F6B-6CAF-4EE6-BF4B-E5EADECCA56B}|cadastro pdv\\cadastro pdv.csproj|c:\\users\\marcoslino\\downloads\\pdv-main (2)\\pdv-main\\pdv_code\\cadastro pdv\\cadastroproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B939F6B-6CAF-4EE6-BF4B-E5EADECCA56B}|cadastro pdv\\cadastro pdv.csproj|solutionrelative:cadastro pdv\\cadastroproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B939F6B-6CAF-4EE6-BF4B-E5EADECCA56B}|cadastro pdv\\cadastro pdv.csproj|c:\\users\\marcoslino\\downloads\\pdv-main (2)\\pdv-main\\pdv_code\\cadastro pdv\\cadastroproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B939F6B-6CAF-4EE6-BF4B-E5EADECCA56B}|cadastro pdv\\cadastro pdv.csproj|solutionrelative:cadastro pdv\\cadastroproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B939F6B-6CAF-4EE6-BF4B-E5EADECCA56B}|cadastro pdv\\cadastro pdv.csproj|c:\\users\\marcoslino\\downloads\\pdv-main (2)\\pdv-main\\pdv_code\\cadastro pdv\\login pdv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B939F6B-6CAF-4EE6-BF4B-E5EADECCA56B}|cadastro pdv\\cadastro pdv.csproj|solutionrelative:cadastro pdv\\login pdv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B939F6B-6CAF-4EE6-BF4B-E5EADECCA56B}|cadastro pdv\\cadastro pdv.csproj|c:\\users\\marcoslino\\downloads\\pdv-main (2)\\pdv-main\\pdv_code\\cadastro pdv\\login pdv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B939F6B-6CAF-4EE6-BF4B-E5EADECCA56B}|cadastro pdv\\cadastro pdv.csproj|solutionrelative:cadastro pdv\\login pdv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cadastroProduct.cs",
+              "DocumentMoniker": "C:\\Users\\marcoslino\\Downloads\\PDV-main (2)\\PDV-main\\PDV_CODE\\cadastro pdv\\cadastroProduct.cs",
+              "RelativeDocumentMoniker": "cadastro pdv\\cadastroProduct.cs",
+              "ToolTip": "C:\\Users\\marcoslino\\Downloads\\PDV-main (2)\\PDV-main\\PDV_CODE\\cadastro pdv\\cadastroProduct.cs",
+              "RelativeToolTip": "cadastro pdv\\cadastroProduct.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T23:48:59.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cadastroProduct.xaml",
+              "DocumentMoniker": "C:\\Users\\marcoslino\\Downloads\\PDV-main (2)\\PDV-main\\PDV_CODE\\cadastro pdv\\cadastroProduct.xaml",
+              "RelativeDocumentMoniker": "cadastro pdv\\cadastroProduct.xaml",
+              "ToolTip": "C:\\Users\\marcoslino\\Downloads\\PDV-main (2)\\PDV-main\\PDV_CODE\\cadastro pdv\\cadastroProduct.xaml",
+              "RelativeToolTip": "cadastro pdv\\cadastroProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T23:48:56.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login pdv.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marcoslino\\Downloads\\PDV-main (2)\\PDV-main\\PDV_CODE\\cadastro pdv\\login pdv.xaml.cs",
+              "RelativeDocumentMoniker": "cadastro pdv\\login pdv.xaml.cs",
+              "ToolTip": "C:\\Users\\marcoslino\\Downloads\\PDV-main (2)\\PDV-main\\PDV_CODE\\cadastro pdv\\login pdv.xaml.cs",
+              "RelativeToolTip": "cadastro pdv\\login pdv.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T23:48:23.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login pdv.xaml",
+              "DocumentMoniker": "C:\\Users\\marcoslino\\Downloads\\PDV-main (2)\\PDV-main\\PDV_CODE\\cadastro pdv\\login pdv.xaml",
+              "RelativeDocumentMoniker": "cadastro pdv\\login pdv.xaml",
+              "ToolTip": "C:\\Users\\marcoslino\\Downloads\\PDV-main (2)\\PDV-main\\PDV_CODE\\cadastro pdv\\login pdv.xaml",
+              "RelativeToolTip": "cadastro pdv\\login pdv.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T23:48:19.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastroUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\marcoslino\\Downloads\\PDV-main (2)\\PDV-main\\PDV_CODE\\cadastro pdv\\CadastroUsuario.cs",
+              "RelativeDocumentMoniker": "cadastro pdv\\CadastroUsuario.cs",
+              "ToolTip": "C:\\Users\\marcoslino\\Downloads\\PDV-main (2)\\PDV-main\\PDV_CODE\\cadastro pdv\\CadastroUsuario.cs",
+              "RelativeToolTip": "cadastro pdv\\CadastroUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T23:43:03.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿<Window x:Class="cadastro_pdv.CadastroWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Cadastro de Funcionário" Height="720" Width="1280" Background="#D0EBFF" WindowStartupLocation="CenterScreen">
+    <Grid HorizontalAlignment="Center" Width="1280" Height="704" VerticalAlignment="Top">
+
+        <!-- Título -->
+        <TextBlock Text="Cadastro de Funcionários" FontSize="30" FontWeight="Bold" 
+                   HorizontalAlignment="Center" Margin="0,50,0,0"/>
+
+        <!-- Nome -->
+        <TextBlock Text="Nome" Margin="400,140,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <TextBox x:Name="NomeTextBox" Width="400" Height="35" Margin="0,170,0,0" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+        <!-- Email -->
+        <TextBlock Text="Email" Margin="400,230,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <TextBox x:Name="EmailTextBox" Width="400" Height="35" Margin="0,260,0,0" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+        <!-- Senha -->
+        <TextBlock Text="Senha" Margin="400,320,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <PasswordBox x:Name="SenhaBox" Width="400" Height="35" Margin="0,350,0,0" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+        <!-- Botão Salvar -->
+        <Button x:Name="Cadastra" Content="Salvar" Width="400" Height="45" 
+                Margin="0,450,0,0" HorizontalAlignment="Center" VerticalAlignment="Top"
+                Background="#4D6EFF" Foreground="White" FontWeight="Bold"
+                Click="Cadastra_Click"/>
+
+        <!-- Botão Login -->
+        <Button Content="Login" Width="400" Height="45" 
+                Margin="0,520,0,0" HorizontalAlignment="Center" VerticalAlignment="Top"
+                Background="Gray" Foreground="White" FontWeight="Bold"
+                Click="AbrirLogin_Click"/>
+
+    </Grid>
+</Window>

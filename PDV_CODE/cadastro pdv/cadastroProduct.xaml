@@ -1,0 +1,40 @@
+﻿<Window x:Class="CADASTRO_PRODUTO.ProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CADASTRO_PRODUTO"
+        mc:Ignorable="d"
+        Title="Cadastro do Produto" Height="637" Width="817">
+
+    <Grid Margin="20,20,116,-131">
+
+        <Label Content="CADASTRO DO PRODUTO" 
+               HorizontalAlignment="Center" Margin="0,0,0,20" 
+               VerticalAlignment="Top" FontSize="18" FontWeight="Bold" FontFamily="Arial Black" />
+
+        <StackPanel VerticalAlignment="Top" Margin="0,40,0,0" HorizontalAlignment="Center" Width="300">
+            <Label Content="Nome do Produto" FontWeight="Bold" FontSize="16" />
+            <TextBox x:Name="textBoxNomeProduto" Height="30" Margin="0,5,0,15" />
+
+            <!-- Campo Código removido -->
+
+            <Label Content="Preço de Compra" FontWeight="Bold" FontSize="16" />
+            <TextBox x:Name="textBoxPrecoCompra" Height="30" Margin="0,5,0,15" />
+
+            <Label Content="Preço de Venda" FontWeight="Bold" FontSize="16" />
+            <TextBox x:Name="textBoxPrecoVenda" Height="30" Margin="0,5,0,15" />
+
+            <Label Content="Estoque" FontWeight="Bold" FontSize="16" />
+            <TextBox x:Name="textBoxEstoque" Height="30" Margin="0,5,0,15" />
+
+            <Label x:Name="labelLucro" Content="Lucro: R$ 0,00" FontWeight="Bold" FontSize="16" Foreground="Green" HorizontalAlignment="Center" Margin="0,0,0,20" />
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="buttonSalvar" Content="SALVAR" Width="100" Height="35" Margin="0,0,10,0" Click="buttonSalvar_Click" FontWeight="Bold"/>
+                <Button x:Name="buttonLimpar" Content="LIMPAR" Width="100" Height="35" Click="buttonLimpar_Click" />
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</Window>
